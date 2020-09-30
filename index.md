@@ -40,13 +40,13 @@
 ## 发表文章情况
 1. Lei Jin, **Zhijie Wen**, Zongyi Hu. Topology-preserving nonlinear shape registration on the shape manifold. *Multimedia Tools and Applications.* 2020. doi：10.1007/s11042-020-09203-y
 2. Wei Wang, **Zhijie Wen\***, Liyan Ma, Shihui Ying. Multi-metric joint discrimination network for few-shot classification. 2020, *3rd Chinese Conference on Pattern Recognition and Computer Vision (PRCV).* Nanjing, China, October, 16-18.
-3. **Zhijie Wen**, Ru Feng, Jingxin Liu, Ying Li, Shihui Ying*. GCSBA-Net: Gabor-based and cascade squeeze bi-attention network for gland segmentation. *IEEE Journal of Biomedical and Health Informatics.* 11, August, 2020. doi: 10.1109/JBHI.2020.3015844.
-4. **Zhijie Wen**, Jiawei Guan, Tieyong Zeng, Ying Li*, Residual network with detail perception loss for single image super-resolution. *Computer Vision and Image Understanding.* 3, June, 2020. doi: 10.1016/j.cviu.2020.103007.
-5. **Zhijie Wen**, Qikun Zhao, Lining Tong*. CNN-based minor fabric defects detection. *International Journal of Clothing Science and Technology.* May, 2020. doi: 10.1108/IJCST-11-2019-0177.
-6. **Zhijie Wen**, Zhihu Liu, Yichen Zong, Baojun Li*. Latent local feature extraction for low-resolution virus image classification. *Journal of the Operations Research Society of China.* 2020, 8(1): 117-132.
-7. **Zhijie Wen**, Mingyang Sun, Ying Li, Shihui Ying, Yaxin Peng*. Asymmetric local metric learning with PSD constraint for person re-identification, 2019 *International Conference on Robotics and Automation (ICRA)*, Palais des congress de Montreal, Canada, May 20-24, 4862-4868.
-8. Ying Li, Lin Cheng, Yaxin Peng*, **Zhijie Wen**, Shihui Ying. Manifold Alignment and Distribution Adaptation for Unsupervised Domain Adaptation, 2019 *International Conference on Multimedia and Expo (ICME)*, 688-693.
-9. Shihui Ying#, **Zhijie Wen**, Jun Shi, Yaxin Peng*, Jigen Peng, Hong Qiao, Manifold Preserving: An Intrinsic Approach for Semisupervised Distance Metric Learning. *IEEE Transactions on Neural Networks & Learning Systems* (IF: 6.108), 2018, 29(7): 2731-2742.
+3. **Zhijie Wen**, Ru Feng, Jingxin Liu, Ying Li, Shihui Ying\*. GCSBA-Net: Gabor-based and cascade squeeze bi-attention network for gland segmentation. *IEEE Journal of Biomedical and Health Informatics.* 11, August, 2020. doi: 10.1109/JBHI.2020.3015844.
+4. **Zhijie Wen**, Jiawei Guan, Tieyong Zeng, Ying Li\*, Residual network with detail perception loss for single image super-resolution. *Computer Vision and Image Understanding.* 3, June, 2020. doi: 10.1016/j.cviu.2020.103007.
+5. **Zhijie Wen**, Qikun Zhao, Lining Tong\*. CNN-based minor fabric defects detection. *International Journal of Clothing Science and Technology.* May, 2020. doi: 10.1108/IJCST-11-2019-0177.
+6. **Zhijie Wen**, Zhihu Liu, Yichen Zong, Baojun Li\*. Latent local feature extraction for low-resolution virus image classification. *Journal of the Operations Research Society of China.* 2020, 8(1): 117-132.
+7. **Zhijie Wen**, Mingyang Sun, Ying Li, Shihui Ying, Yaxin Peng\*. Asymmetric local metric learning with PSD constraint for person re-identification, 2019 *International Conference on Robotics and Automation (ICRA)*, Palais des congress de Montreal, Canada, May 20-24, 4862-4868.
+8. Ying Li, Lin Cheng, Yaxin Peng\*, **Zhijie Wen**, Shihui Ying. Manifold Alignment and Distribution Adaptation for Unsupervised Domain Adaptation, 2019 *International Conference on Multimedia and Expo (ICME)*, 688-693.
+9. Shihui Ying#, **Zhijie Wen**, Jun Shi, Yaxin Peng\*, Jigen Peng, Hong Qiao, Manifold Preserving: An Intrinsic Approach for Semisupervised Distance Metric Learning. *IEEE Transactions on Neural Networks & Learning Systems* (IF: 6.108), 2018, 29(7): 2731-2742.
 10. Junjie Cao#, Jie Zhang, **Zhijie Wen\***, Nannan Wang, Xiuping Liu, 2017, Fabric defect inspection using prior knowledge guided least squares regression, *Multimedia Tools and Applications* (IF: 1.530), 76: 4141~4157.
 
 ## 项目情况
@@ -64,6 +64,6 @@
 <br/>
 
 
-<div id="English" style="width: 60px;height: 300px;background-color: #003366">
+<div id="English">
 英文版本的介绍位置
 </div>
