@@ -12,7 +12,7 @@
       <p><b>上海大学理学院数学系</b></p>
       <p><b>邮箱：wenzhijie@shu.com</b></p>
       <p><b>地址：上海市宝山区上大路98号上海大学，F楼</b></p>
-      <p><b><a href="#English"> div1</a></b></p>
+      <p><b><a href="#English"> English</a></b></p>
     </td>
     <td width="25%">
       <img src="/tx1.jpg" width="100%">
