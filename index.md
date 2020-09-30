@@ -12,7 +12,7 @@
       <p><b>上海大学理学院数学系</b></p>
       <p><b>邮箱：wenzhijie@shu.com</b></p>
       <p><b>地址：上海市宝山区上大路98号上海大学，F楼</b></p>
-      <p><b>$('html, body').animate({ scrollTop: $(".wgt-bottom-union").offset().top - 20 }, 1000);</b></p>
+      <p><b><a href="#div1"> div1</a></b></p>
     </td>
     <td width="25%">
       <img src="/tx1.jpg" width="100%">
@@ -59,3 +59,10 @@
 
 
 英文版、title
+
+
+<div id="div1" style="width: 60px;height: 300px;background-color: #003366">
+1
+</div>
+
+yingwen
