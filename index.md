@@ -1,7 +1,7 @@
 <head>
   </td>
   <td width="25%">
-    <img src="/tt1.jpg" width="100%">
+    <img src="/taitou.jpg" width="100%">
   </td>
 </head>
 
