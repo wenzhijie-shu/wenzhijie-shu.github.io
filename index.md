@@ -1,5 +1,8 @@
 <head>
-  
+  </td>
+  <td width="25%">
+    <img src="/tt1.jpg" width="100%">
+  </td>
 </head>
 
 <table border="0">
@@ -8,7 +11,7 @@
       <h1>温智婕</h1>
       <p><b>副教授</b></p>
       <p><b>上海大学理学院数学系</b></p>
-      <p><b>邮箱：[wenzhijie@shu.com](wenzhijie@shu.com)</b></p>
+      <p><b>邮箱：wenzhijie@shu.com</b></p>
       <p><b>地址：上海市宝山区上大路98号上海大学，F楼</b></p>
     </td>
     <td width="25%">
