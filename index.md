@@ -8,7 +8,7 @@
       <p><b>地址：上海市宝山区上大路98号上海大学，F楼，邮编200444</b></p>
     </td>
     <td width="25%">
-      <img src="/tx1.png" width="100%">
+      <img src="/tx1.jpg" width="100%">
     </td>
   </tr>
 </table>
