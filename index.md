@@ -1,6 +1,6 @@
 <head>
   <td width="25%">
-    <img src="/taitou.jpg" width="100%">
+    <img src="/lixueyuan.jpg" width="100%">
   </td>
 </head>
 
